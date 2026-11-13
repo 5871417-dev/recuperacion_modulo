@@ -1,0 +1,24 @@
+ARTESV - PROYECTO WEB DEMOSTRATIVO
+
+INICIO RÁPIDO:
+1. Extraer el archivo ZIP.
+2. Abrir la carpeta ArteSV_Proyecto en Visual Studio Code.
+3. Hacer doble clic en index.html para abrirlo en Chrome o Edge.
+   También se puede usar la extensión Live Server de VS Code (opcional).
+4. Navegar por Inicio, Galería, Artistas, Propósito y Contacto.
+5. En Galería probar botones de filtros y abrir una obra haciendo clic.
+6. Reducir el tamaño de la ventana para mostrar el diseño responsivo.
+7. La paleta principal cambia automáticamente según la hora: noche = 18:00-05:59.
+
+ARCHIVOS:
+index.html: estructura y contenido.
+styles.css: diseño, animaciones y adaptación móvil.
+script.js: datos de muestra, filtros, detalle, menú, validación y modo horario.
+img/: seis imágenes SVG originales creadas para este prototipo.
+
+IMPORTANTE:
+- No requiere conexión a un servidor, XAMPP ni base de datos.
+- La tipografía usa Google Fonts, por lo que sin internet se ve una alternativa local.
+- Los artistas y obras son ejemplos FICTICIOS para la presentación.
+- El formulario SOLO valida campos; no manda información.
+- El prototipo NO permite crear cuentas ni subir obras (futuras mejoras).
